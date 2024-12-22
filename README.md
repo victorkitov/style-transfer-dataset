@@ -1,3 +1,3 @@
 # style-transfer-dataset
 
-Will be released in February 2025.
+Will be released on March 1st, 2025.
